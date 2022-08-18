@@ -1,0 +1,37 @@
+h2{
+    color: white;
+    font-size: 45px;
+}
+
+.container{
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.freemint{
+    border-bottom: 4px solid whitesmoke;
+    padding-bottom: 10px;
+}
+
+
+.demon-angel>img{
+    padding-top: 50px;
+    height: 500px;
+}
+
+.demon-angel{
+    margin-top: 90px;
+    text-align: center;
+    margin-right: 800px ;
+    padding-bottom: 100px;
+    background-image: url('https://friendly-choux-027a55.netlify.app/assets/img/service/service_bg.png');
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
